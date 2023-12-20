@@ -15,7 +15,6 @@ The Next.js Learn course is designed to provide a structured approach for learni
 
 ```bash
 npm install
-cp .env.example .env.local
 ```
 
 Next, run the development server:
