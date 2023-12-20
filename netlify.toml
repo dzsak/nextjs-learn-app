@@ -1,9 +1,6 @@
 [build]
-  command = "next build"
-  publish = ".next/"
+  command = "next build && next export"
+  publish = "out"
 
-[[redirects]]
-  from = "/_next/static/*"
-  to = "/static/:splat"
-  status = 301
-  force = true
+[[plugins]]
+  package = "netlify-plugin-cypress"
