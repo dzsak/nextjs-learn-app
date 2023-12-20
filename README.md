@@ -10,3 +10,18 @@ The Next.js Learn course is designed to provide a structured approach for learni
 - Gain a solid understanding of the foundations of Next.js.
 - Build a complete demo website using Next.js, incorporating various features and functionalities.
 - Learn industry best practices for creating modern web applications.
+
+## Getting started
+
+```bash
+npm install
+cp .env.example .env.local
+```
+
+Next, run the development server:
+
+```bash
+npm run dev
+```
+
+Finally, open [http://localhost:3000](http://localhost:3000) in your browser.
