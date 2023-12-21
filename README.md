@@ -19,7 +19,7 @@ This repository contains the code and projects completed during the Next.js Lear
 
 ## Course Overview
 
-The Next.js Learn course is designed to provide a structured approach for learning Next.js, offering hands-on experience and practical knowledge in web development. Throughout this course, you will:
+The [https://nextjs.org/learnNext.js](Next.js Learn course) is designed to provide a structured approach for learning Next.js, offering hands-on experience and practical knowledge in web development. Throughout this course, you will:
 
 - Gain a solid understanding of the foundations of Next.js.
 - Build a complete demo website using Next.js, incorporating various features and functionalities.
